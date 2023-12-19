@@ -1,0 +1,25 @@
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\DataEntry.exe.config
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.vbproj.ResolveComReference.cache
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.Form1.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.Form2.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.Form3.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.vbproj.GenerateResource.Cache
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\data.accdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\DataEntry.exe
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\DataEntry.pdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\DataEntry.xml
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntey.Resources.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntry.exe
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntry.xml
+C:\Users\Kiroo\Downloads\تسجيل البيانات\DataEntey\obj\x86\Debug\DataEntry.pdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\bin\Debug\DataEntry.exe.config
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\DataEntey.vbproj.ResolveComReference.cache
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\DataEntry.exe
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\DataEntry.xml
+C:\Users\Kiroo\Downloads\تسجيل البيانات\New folder (2)\DataEntey\obj\x86\Debug\DataEntry.pdb

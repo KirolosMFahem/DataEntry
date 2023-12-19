@@ -1,0 +1,40 @@
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.exe
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.pdb
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.xml
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\Interop.WMPLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.vbproj.ResolveComReference.cache
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form1.resources
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form2.resources
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form3.resources
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Resources.resources
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.vbproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.exe
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.xml
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.pdb
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Omar\Desktop\مستودع رقمي  (عمر محمد محمود\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.exe.config
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.exe.config
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.vbproj.ResolveComReference.cache
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.exe
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.xml
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.pdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form1.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form2.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Form3.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل_البيانات.Resources.resources
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\obj\x86\Debug\تسجيل البيانات.vbproj.GenerateResource.Cache
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\data.accdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.exe
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.pdb
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\تسجيل البيانات.xml
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kiroo\Downloads\تسجيل البيانات\تسجيل البيانات\bin\Debug\DataEntry.exe.config
